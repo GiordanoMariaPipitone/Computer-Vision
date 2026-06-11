@@ -1,0 +1,12 @@
+# Cartelle escluse dal portfolio
+Letizina/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
